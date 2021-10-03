@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86132301769",
+    "firebase_url": "https://takeiteasy-46afb-default-rtdb.firebaseio.com",
+    "project_id": "takeiteasy-46afb",
+    "storage_bucket": "takeiteasy-46afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86132301769:android:39b69374007a6180825218",
+        "android_client_info": {
+          "package_name": "com.example.tie_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86132301769-g00gd3rk16bcn16dbcs71gaj06poom26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAEE3WKPZa1O7ce_2ukJ8NNn9vY9kf3uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86132301769-g00gd3rk16bcn16dbcs71gaj06poom26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
