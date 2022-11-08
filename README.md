@@ -1,8 +1,5 @@
 # Take It Easy App
-A home services application built using Flutter. This app allows customers to hire service providers like plumbers, 
-electricians, carpenters and various kinds of service providers. 
-
-This application has two modules, one for customer and one for service providers.
+A home services application built using Flutter. This app allows customers to hire service providers like plumbers, electricians, carpenters and various kinds of service providers. This application has two modules, one for customer and one for service providers. The is also a web based dashboard for admin control.
 
 <p float="lef>
 <img src="https://user-images.githubusercontent.com/34773162/192183930-ae6d754a-6bf9-4f54-bac8-bce470ed7431.jpg" alt="splashscreen" width="200">
